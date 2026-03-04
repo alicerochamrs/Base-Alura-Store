@@ -12,9 +12,6 @@ O principal objetivo desta análise é fornecer uma visão abrangente sobre as o
 - **Produtos Mais e Menos Vendidos**: Destacar os produtos de maior e menor popularidade para orientar decisões de estoque e marketing.
 - **Frete Médio**: Analisar o custo médio de frete por loja para verificar a eficiência logística.
 
-## 📁 Estrutura do Projeto
-
-O projeto está contido em um único notebook Jupyter/Colab, que executa todas as etapas da análise, desde a importação dos dados até a geração de gráficos e insights. Os dados são carregados diretamente de arquivos CSV hospedados no GitHub.
 
 ### Arquivos:
 - `loja_1.csv`, `loja_2.csv`, `loja_3.csv`, `loja_4.csv`: Arquivos de dados brutos para cada uma das quatro lojas.
@@ -47,11 +44,3 @@ Abaixo estão alguns dos gráficos e insights gerados durante a análise:
 
 **Insight**: A Loja 1 tem o frete médio mais alto (R$ 34.69), e a Loja 4 o mais baixo (R$ 31.28). Esta diferença pode impactar a competitividade dos produtos ou indicar diferentes estratégias logísticas entre as lojas.
 
-## 🚀 Como Executar o Notebook
-
-Para executar este notebook e reproduzir a análise, siga os passos abaixo:
-
-1. **Clone o repositório**:
-```bash
-git clone https://github.com/seu-usuario/alura-store-analise.git
-cd alura-store-analise
